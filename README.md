@@ -1,1 +1,3 @@
 # Project-Excel
+Propose tactics to address challenges in regions with lower bike purchase rates, such as promotional campaigns or market research initiatives.
+The "Bike Sales Analysis Dashboard" provides a comprehensive view of the sales data, highlighting key metrics and trends. The dashboard reveals that sales are significantly higher in certain regions, with distinct purchasing patterns observed across different genders and age brackets. Interactive slicers for Region, Gender, and Age Bracket allow users to delve deeper into the data, uncovering specific insights such as the correlation between commute distance and bike purchases. This detailed analysis facilitates strategic decision-making by offering a clear visualization of the factors driving bike sales.
